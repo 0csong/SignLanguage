@@ -1,2 +1,1 @@
-kivy를 위한 파일들
-화면에서 띄워줌
+kivy app 제작 파일 (simple)
